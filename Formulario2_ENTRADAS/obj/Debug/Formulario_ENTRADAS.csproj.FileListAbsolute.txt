@@ -1,0 +1,10 @@
+C:\Users\IAN\Desktop\Formulario_ENTRADAS\bin\Debug\Formulario_ENTRADAS.exe.config
+C:\Users\IAN\Desktop\Formulario_ENTRADAS\bin\Debug\Formulario_ENTRADAS.exe
+C:\Users\IAN\Desktop\Formulario_ENTRADAS\bin\Debug\Formulario_ENTRADAS.pdb
+C:\Users\IAN\Desktop\Formulario_ENTRADAS\obj\Debug\Formulario_ENTRADAS.csproj.AssemblyReference.cache
+C:\Users\IAN\Desktop\Formulario_ENTRADAS\obj\Debug\Formulario_ENTRADAS.Properties.Resources.resources
+C:\Users\IAN\Desktop\Formulario_ENTRADAS\obj\Debug\Formulario_ENTRADAS.csproj.GenerateResource.cache
+C:\Users\IAN\Desktop\Formulario_ENTRADAS\obj\Debug\Formulario_ENTRADAS.csproj.CoreCompileInputs.cache
+C:\Users\IAN\Desktop\Formulario_ENTRADAS\obj\Debug\Formulario_ENTRADAS.exe
+C:\Users\IAN\Desktop\Formulario_ENTRADAS\obj\Debug\Formulario_ENTRADAS.pdb
+C:\Users\IAN\Desktop\Formulario_ENTRADAS\obj\Debug\Formulario_ENTRADAS.Form1.resources
